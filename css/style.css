@@ -74,3 +74,9 @@ footer {
 .small {
     font-size: 0.8em;
 }
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
